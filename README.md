@@ -10,6 +10,7 @@ hello, world
 4. hello.js
 5. hello.html
 6. hello.md
+7. hello.java
 
 ———
 
