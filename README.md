@@ -11,6 +11,8 @@ hello, world
 5. hello.html
 6. hello.md
 7. hello.java
+8. hello.sh
+9. hello.py2.py
 
 ———
 
