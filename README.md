@@ -1,8 +1,6 @@
 # hello-world…
 
-hello, world
-
-———
+hello, world —— K&R
 
 1. hello.py
 2. hello.cpp
@@ -14,7 +12,5 @@ hello, world
 8. hello.sh
 9. hello.py2.py
 ……
-
-———
 
 ptal.
