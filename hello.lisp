@@ -1,2 +1,2 @@
-;; hello, world
+; hello, world
 (format t "hello, world")
